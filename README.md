@@ -78,7 +78,7 @@ AI Concepts  ▓▓▓▓░░░░░  50%
 <div>
   <h2>🧩 Featured Projects</h2>
   <ul>
-    <li>📝 <a href="https://github.com/codeofkaif/Billing_System_project/blob/master/.idea/main.py">Student Billing System in Python (Tkinter)</a></li>
+    <li>📝 <a href="https://github.com/codeofkaif/Billing-system/blob/main/restaurant_Billing_System.py">Student Billing System in Python (Tkinter)</a></li>
     <li>🌐 <a href="https://codeofkaif.github.io/portfolio/">Personal Web </a></li>
     <li>💬 <a href="https://mr-siddiqui27.github.io/SPbyAnuragSir/">Educational Web Pase</a></li>
   </ul>
