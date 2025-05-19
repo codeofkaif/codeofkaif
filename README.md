@@ -78,9 +78,9 @@ AI Concepts  ▓▓▓▓░░░░░  50%
 <div>
   <h2>🧩 Featured Projects</h2>
   <ul>
-    <li>📝 <a href="https://github.com/codeofkaif/python-billing-system">Student Billing System in Python (Tkinter)</a></li>
-    <li>🌐 <a href="https://github.com/codeofkaif/whatsapp-ui-clone">WhatsApp Web UI Clone (HTML/CSS)</a></li>
-    <li>💬 <a href="https://github.com/codeofkaif/date-chat-app">Secure Date-Only Chat App</a></li>
+    <li>📝 <a href="https://github.com/codeofkaif/Billing_System_project/blob/master/.idea/main.py">Student Billing System in Python (Tkinter)</a></li>
+    <li>🌐 <a href="https://codeofkaif.github.io/portfolio/">Personal Web </a></li>
+    <li>💬 <a href="https://mr-siddiqui27.github.io/SPbyAnuragSir/">Educational Web Pase</a></li>
   </ul>
 </div>
 
@@ -91,8 +91,8 @@ AI Concepts  ▓▓▓▓░░░░░  50%
   <h2>📫 Connect with Me</h2>
   <div align="center">
     <a href="https://github.com/codeofkaif"><img src="https://img.shields.io/badge/GitHub-codeofkaif-000?style=for-the-badge&logo=github"></a>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kaif-khan-26a10029a/"><img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:kkaif2687@gmail.com"><img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
 </div>
 
