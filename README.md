@@ -1,61 +1,123 @@
-<h1 align="center">Hey 👋 I'm Kaif</h1>
+<div>
+  <h2>🌟 About Me</h2>
+  <p>Hi there! 👋<br>
+  I'm <strong>Kaif</strong>, a passionate and curious tech enthusiast from <strong>Uttar Pradesh, India 🇮🇳</strong>.<br>
+  Currently pursuing <strong>B.Tech in Computer Science and Engineering</strong> from <strong>Babu Banarasi Das University, Lucknow</strong>.<br><br>
+  I love learning new things, exploring how systems work, and solving problems with <strong>logic and creativity</strong>. 💭✨</p>
+</div>
 
-<p align="center">
-  👨‍💻 Aspiring Software Engineer | Full-Stack Developer in progress <br>
-  💡 Logic Seeker | Curious Learner | AI & System Design Explorer <br>
-</p>
+<hr />
 
----
+<div>
+  <h2>💻 Tech Stack & Skills</h2>
 
-## 🔥 About Me
+  <!-- Skill Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UI%2FUX-ff69b4" />
+    <img src="https://img.shields.io/badge/-AI%20Concepts-blueviolet" />
+  </p>
 
-- 🎓 I'm a B.Tech CSE student from BBDU, Lucknow (4th Semester)
-- 💻 Passionate about building clean, logical, and useful web apps
-- 🌐 Currently focused on **HTML**, **CSS**, **JavaScript**, **Python**, and **Java**
-- 🧠 Exploring AI, backend architecture, and system design concepts
-- 📖 Believe in *“Code with logic, learn with curiosity”*
+  <pre>
+🟦 Frontend
+HTML5        ▓▓▓▓▓▓▓▓▓▓ 100%
+CSS3         ▓▓▓▓▓▓▓▓▓░ 90%
+JavaScript   ▓▓▓▓▓▓▓░░░ 70%
 
----
+🟩 Backend
+Python       ▓▓▓▓▓▓▓▓░░ 80%
+Java         ▓▓▓▓▓▓░░░░ 60%
 
-## 🛠️ Tech Stack
+🟨 Database & Tools
+SQL          ▓▓▓▓▓░░░░░ 50%
+Git          ▓▓▓▓▓▓▓░░░ 70%
 
-| Area       | Tools / Languages                            |
-|------------|----------------------------------------------|
-| Frontend   | HTML, CSS, JavaScript                        |
-| Backend    | Python (Flask Basics), Java (Core)           |
-| Tools      | Git, GitHub, VS Code                         |
-| Learning   | React.js, Node.js, Express.js, MongoDB       |
+🟪 Others
+UI/UX Design ▓▓▓▓▓▓▓░░░ 70%
+AI Concepts  ▓▓▓▓░░░░░  50%
+  </pre>
+</div>
 
----
+<hr />
 
-## 🚀 Goals for 2025
+<div>
+  <h2>🚀 Currently Exploring</h2>
+  <ul>
+    <li>🔧 Full Stack Web Development</li>
+    <li>🧠 Artificial Intelligence & System Design</li>
+    <li>💡 Logic-Based Mini Projects</li>
+  </ul>
+</div>
 
-- ✅ Master core full-stack development (MERN/Java + Python)
-- 🧩 Contribute to open-source projects
-- 📦 Build personal projects that solve real problems
-- 🤝 Collaborate with other developers on GitHub
+<hr />
 
----
+<!-- Featured Projects -->
+<div>
+  <h2>🧩 Featured Projects</h2>
+  <ul>
+    <li>📝 <a href="https://github.com/codeofkaif/python-billing-system">Student Billing System in Python (Tkinter)</a></li>
+    <li>🌐 <a href="https://github.com/codeofkaif/whatsapp-ui-clone">WhatsApp Web UI Clone (HTML/CSS)</a></li>
+    <li>💬 <a href="https://github.com/codeofkaif/date-chat-app">Secure Date-Only Chat App</a></li>
+  </ul>
+</div>
 
-## 🤝 Let's Connect!
+<hr />
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-kaif-ali)
-- 📬 Email: kkaif2687@gmail.com 
-- 🧠 Portfolio: https://codeofkaif.github.io/portfolio/
+<div>
+  <h2>📫 Connect with Me</h2>
 
----
+  <p>
+    <a href="https://github.com/codeofkaif"><img src="https://img.shields.io/badge/GitHub-codeofkaif-000?style=flat-square&logo=github"></a>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  </p>
+</div>
 
-## ✨ Fun Facts
+<hr />
 
-- ☕ I love coding at night with a cup of chai and lo-fi beats  
-- 🤔 I ask “Why?” before “How?” – Logic matters more than syntax  
-- 🎤 I also enjoy singing and cultural events 🎶
+<div>
+  <h2>🎵 Fun Facts</h2>
+  <ul>
+    <li>🐛 I enjoy debugging weird and unexpected bugs</li>
+    <li>🎤 Singing is my side passion — I perform in cultural events</li>
+    <li>🔍 I always chase the "<strong>why</strong>" behind every concept</li>
+  </ul>
+</div>
 
----
+<hr />
 
-<p align="center">
-  💻 Let's build something awesome together! 🚀
-</p>
-codeofkaif/codeofkaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<blockquote>
+  <p><em>"Learning never exhausts the mind. It only sharpens it."</em> — <strong>Leonardo da Vinci</strong></p>
+</blockquote>
+
+<hr />
+
+<!-- GitHub Tracking Stats -->
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=codeofkaif&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeofkaif&theme=tokyonight" width="48%" />
+
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeofkaif&theme=tokyonight" width="100%" />
+
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=codeofkaif&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeofkaif&theme=github-compact" width="100%" />
+
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=codeofkaif&label=Visitors&color=0e75b6&style=flat" />
+</div>
+
+<!-- WakaTime (optional) -->
+<!-- Uncomment below line if WakaTime is active -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeofkaif" /> -->
