@@ -1,3 +1,6 @@
+
+
+<!-- About Me -->
 <div>
   <h2>🌟 About Me</h2>
   <p>Hi there! 👋<br>
@@ -8,21 +11,12 @@
 
 <hr />
 
+<!-- Tech Stack -->
 <div>
   <h2>💻 Tech Stack & Skills</h2>
-
-  <!-- Skill Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-UI%2FUX-ff69b4" />
-    <img src="https://img.shields.io/badge/-AI%20Concepts-blueviolet" />
-  </p>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,mysql,c,github,pycharm,idea" />
+  </div>
 
   <pre>
 🟦 Frontend
@@ -46,6 +40,7 @@ AI Concepts  ▓▓▓▓░░░░░  50%
 
 <hr />
 
+<!-- Exploration -->
 <div>
   <h2>🚀 Currently Exploring</h2>
   <ul>
@@ -57,51 +52,10 @@ AI Concepts  ▓▓▓▓░░░░░  50%
 
 <hr />
 
-<!-- Featured Projects -->
-<div>
-  <h2>🧩 Featured Projects</h2>
-  <ul>
-    <li>📝 <a href="https://github.com/codeofkaif/python-billing-system">Student Billing System in Python (Tkinter)</a></li>
-    <li>🌐 <a href="https://github.com/codeofkaif/whatsapp-ui-clone">WhatsApp Web UI Clone (HTML/CSS)</a></li>
-    <li>💬 <a href="https://github.com/codeofkaif/date-chat-app">Secure Date-Only Chat App</a></li>
-  </ul>
-</div>
 
-<hr />
-
-<div>
-  <h2>📫 Connect with Me</h2>
-
-  <p>
-    <a href="https://github.com/codeofkaif"><img src="https://img.shields.io/badge/GitHub-codeofkaif-000?style=flat-square&logo=github"></a>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  </p>
-</div>
-
-<hr />
-
-<div>
-  <h2>🎵 Fun Facts</h2>
-  <ul>
-    <li>🐛 I enjoy debugging weird and unexpected bugs</li>
-    <li>🎤 Singing is my side passion — I perform in cultural events</li>
-    <li>🔍 I always chase the "<strong>why</strong>" behind every concept</li>
-  </ul>
-</div>
-
-<hr />
-
-<blockquote>
-  <p><em>"Learning never exhausts the mind. It only sharpens it."</em> — <strong>Leonardo da Vinci</strong></p>
-</blockquote>
-
-<hr />
-
-<!-- GitHub Tracking Stats -->
+<!-- GitHub Stats Section -->
 <div align="center">
   <h2>📈 GitHub Stats</h2>
-
   <img src="https://github-readme-stats.vercel.app/api?username=codeofkaif&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeofkaif&theme=tokyonight" width="48%" />
 
@@ -118,6 +72,48 @@ AI Concepts  ▓▓▓▓░░░░░  50%
   <img src="https://komarev.com/ghpvc/?username=codeofkaif&label=Visitors&color=0e75b6&style=flat" />
 </div>
 
-<!-- WakaTime (optional) -->
-<!-- Uncomment below line if WakaTime is active -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeofkaif" /> -->
+
+
+<!-- Projects -->
+<div>
+  <h2>🧩 Featured Projects</h2>
+  <ul>
+    <li>📝 <a href="https://github.com/codeofkaif/python-billing-system">Student Billing System in Python (Tkinter)</a></li>
+    <li>🌐 <a href="https://github.com/codeofkaif/whatsapp-ui-clone">WhatsApp Web UI Clone (HTML/CSS)</a></li>
+    <li>💬 <a href="https://github.com/codeofkaif/date-chat-app">Secure Date-Only Chat App</a></li>
+  </ul>
+</div>
+
+<hr />
+
+<!-- Contact -->
+<div>
+  <h2>📫 Connect with Me</h2>
+  <div align="center">
+    <a href="https://github.com/codeofkaif"><img src="https://img.shields.io/badge/GitHub-codeofkaif-000?style=for-the-badge&logo=github"></a>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </div>
+</div>
+
+<hr />
+
+<!-- Fun Facts -->
+<div>
+  <h2>🎵 Fun Facts</h2>
+  <ul>
+    <li>🐛 I enjoy debugging weird and unexpected bugs</li>
+    <li>🎤 Singing is my side passion — I perform in cultural events</li>
+    <li>🔍 I always chase the "<strong>why</strong>" behind every concept</li>
+  </ul>
+</div>
+
+<hr />
+
+<!-- Quote -->
+<blockquote>
+  <p><em>"Learning never exhausts the mind. It only sharpens it."</em> — <strong>Leonardo da Vinci</strong></p>
+</blockquote>
+
+<hr />
+
